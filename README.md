@@ -1,7 +1,7 @@
 C++ QueueList library for Arduino devices
 ====================
 [![Build Status](https://travis-ci.org/georg-koch/Arduino-QueueList.svg?branch=master)](https://travis-ci.org/georg-koch/Arduino-QueueList)
-[![License](https://img.shields.io/badge/license-GPL-3.0%20License-blue.svg)](https://opensource.org/licenses/GPL-3.0)
+[![License](https://img.shields.io/badge/license-GPL%203.0%20License-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 
 // TBD
 
